@@ -13,9 +13,9 @@ public class Player
 {
     // class level declaration
     private String name;
-    private int coins;
-    private int guesses;
-    private int games;
+    public int coins;
+    public int guesses;
+    public int games;
     // maybe  private int best, total, coins; ?
 
     /**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
